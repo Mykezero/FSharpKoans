@@ -4,7 +4,7 @@ module FSharpKoans.Core.Helpers
 open System
 open NUnit.Framework
 
-let __ = 2
+let __ = "FILL ME IN"
 
 type FILL_ME_IN =
     class end
